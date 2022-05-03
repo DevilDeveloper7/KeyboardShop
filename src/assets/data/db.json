@@ -1,0 +1,62 @@
+{
+  "keyboards": [
+    {
+      "id": 1,
+      "name": "Logitech",
+      "image": "assets/data/img/keys.jpg",
+      "description": "description",
+      "price": 100,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "name": "Custom",
+      "image": "assets/data/img/Custom.jpg",
+      "description": "description",
+      "price": 200,
+      "category": 3
+    },
+    {
+      "id": 3,
+      "name": "A4",
+      "image": "assets/data/img/a4tech.jpg",
+      "description": "description",
+      "price": 300,
+      "category": 4
+    },
+    {
+      "id": 4,
+      "name": "Logitech pro 213",
+      "image": "assets/data/img/l213.jpg",
+      "description": "description",
+      "price": 400,
+      "category": 2
+    },
+    {
+      "id": 5,
+      "name": "Logitech MX keys",
+      "image": "assets/data/img/MX mini.jpg",
+      "description": "description",
+      "price": 500,
+      "category": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Office mini"
+    },
+    {
+      "id": 2,
+      "name": "Mechanic"
+    },
+    {
+      "id": 3,
+      "name": "Low profile Mechanic"
+    },
+    {
+      "id": 4,
+      "name": "Office full"
+    }
+  ]
+}
